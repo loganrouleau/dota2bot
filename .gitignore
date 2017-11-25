@@ -1,0 +1,3 @@
+# Ignore my IntelliJ-specific files
+*.iml
+.idea
