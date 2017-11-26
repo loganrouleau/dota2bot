@@ -1,3 +1,4 @@
 function Think()
-    ActionImmediate_Chat("Hello World", true)
+    local npcBot = GetBot()
+    npcBot:ActionImmediate_Chat("Hello World", true)
 end
